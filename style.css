@@ -29,6 +29,7 @@ button {
 .logo button {
     background-color: #1f2937;
 }
+
 span {
     padding-left: 8px;
 }
@@ -77,7 +78,6 @@ a {
     display: flex;
     justify-content: center;
     gap: 48px;
-
 }
 
 .unit img {
@@ -166,7 +166,6 @@ button, .call-to-action {
 
 .quote {
     font-size: 36px;
-
 }
 
 img {
